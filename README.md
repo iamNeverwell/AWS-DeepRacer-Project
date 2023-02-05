@@ -34,7 +34,7 @@ Your overall rank
 
 Code used:
 
-def reward_function(params):
+    def reward_function(params):
 
     # Read input parameters
     track_width = params['track_width']
