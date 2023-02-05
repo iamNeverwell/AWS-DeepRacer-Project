@@ -6,7 +6,7 @@ AWS DeepRacer is the fastest way to get rolling with reinforcement learning (RL)
 
 I received a message from Udemy about receiving a scholarship from Amazon to learn A.I. and M.L., so I saw a perfect opportunity to improve my skills on a project that I can see results right away, with a pretty cool goal.
 
-In order to receive the scholarship, you need to pass a quiz and train your model to complete a track in 3 minutes or less. Even  :)f I don't get it, it's pretty cool to see that I managed to even show up on the leaderboard :)
+In order to receive the scholarship, you need to pass a quiz and train your model to complete 3 loops around a track in 3 minutes or less. Even if I don't get it, it would be pretty cool to see if I manage to show up on the leaderboard :)
 
 ### Feb 4, 2023
 
@@ -22,7 +22,7 @@ Algo:
 
 Proximal Policy Optimization (PP0)
 
-I had reached low 3-minute times and after a few more tries, I finally got below 3 minutes:
+I had reached low 3-minute times and after a little over 4 hours of coding and training about 10 models, I finally got below 3 minutes:
 
 Total lap time
 02:58.127
