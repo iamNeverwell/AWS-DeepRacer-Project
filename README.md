@@ -4,7 +4,7 @@ AWS DeepRacer is the fastest way to get rolling with reinforcement learning (RL)
 
 ### Why did I get myself into this?
 
-I received a message from Udemy about receiving a scholarship from Amazon to learn A.I. and M.L., so I saw a perfect opportunity to improve my skills on a project that I can see results right away, with a pretty cool goal.
+I received a message from Udacity about receiving a scholarship from Amazon to learn A.I. and M.L., so I saw a perfect opportunity to improve my skills on a project that I can see results right away, with a pretty cool goal.
 
 In order to receive the scholarship, you need to pass a quiz and train your model to complete 3 loops around a track in 3 minutes or less. Even if I don't get it, it would be pretty cool to see if I manage to show up on the leaderboard :)
 
