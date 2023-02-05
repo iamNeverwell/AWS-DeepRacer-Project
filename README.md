@@ -2,7 +2,7 @@
 
 AWS DeepRacer is the fastest way to get rolling with reinforcement learning (RL), literally, with a fully autonomous 1/18th scale race car driven by reinforcement learning, 3D racing simulator, and a global racing league. Developers can train, evaluate, and tune RL models in the online simulator, deploy their models onto AWS DeepRacer for a real-world autonomous experience and compete in the AWS DeepRacer League for a chance to win the AWS DeepRacer Championship Cup.
 
-# Why did I get myself into this?
+### Why did I get myself into this?
 
 I received a message from Udemy about receiving a scholarship from Amazon to learn A.I. and M.L., so I saw a perfect opportunity to improve my skills on a project that I can see results right away, with a pretty cool goal.
 
